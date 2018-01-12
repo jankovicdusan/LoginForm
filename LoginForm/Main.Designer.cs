@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace LoginForm
 {
     partial class Main
     {

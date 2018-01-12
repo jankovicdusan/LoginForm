@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace WindowsFormsApp1
+namespace LoginForm
 {
     public partial class Form1 : Form
     {
